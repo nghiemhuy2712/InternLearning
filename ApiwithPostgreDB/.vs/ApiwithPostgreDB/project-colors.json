@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "af96a192-f868-479c-9f3b-939f21bd172c": {
+      "ProjectGuid": "af96a192-f868-479c-9f3b-939f21bd172c",
+      "DisplayName": "ApiwithPostgreDB",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
